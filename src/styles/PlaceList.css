@@ -1,0 +1,17 @@
+/* PlaceList.css */
+.header {
+    background-image: url('https://example.com/path-to-your-image.jpg'); /* Replace with your image URL */
+    background-size: cover;
+    background-position: center;
+    height: 200px; /* Adjust height as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white; /* Text color */
+    text-shadow: 1px 1px 2px black; /* Optional shadow for text */
+  }
+  
+  .header h1 {
+    margin: 0;
+  }
+  

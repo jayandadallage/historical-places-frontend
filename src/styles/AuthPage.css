@@ -1,0 +1,12 @@
+.auth-background {
+    background-image: url('../../public/bg.png'); /* Add your background image URL */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  
+  .card {
+    border-radius: 1rem;
+    background: rgba(255, 255, 255, 0.9); /* Optional: Semi-transparent background */
+  }
+  
