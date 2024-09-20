@@ -41,7 +41,7 @@ const AuthTabs = () => {
   };
 
   return (
-    <div className="d-flex justify-content-center align-items-center vh-100" style={{ background: `url('your-background-image.jpg') no-repeat center center fixed`, backgroundSize: 'cover' }}>
+    <div className="d-flex justify-content-center align-items-center vh-100" style={{ background: `url('https://c1.wallpaperflare.com/preview/542/649/89/passport-map-world-trip.jpg') no-repeat center center fixed`, backgroundSize: 'cover' }}>
       <div className="card shadow" style={{ width: '400px' }}>
         <div className="card-body">
           <h2 className="text-center">{isLogin ? 'Login' : 'Register'}</h2>
